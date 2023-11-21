@@ -3,4 +3,5 @@
   <groupId>com.kishan</groupId>
   <artifactId>labfat</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+   <build> <finalName>devops-integration</finalName></build>
 </project>
